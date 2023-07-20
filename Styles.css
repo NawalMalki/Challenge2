@@ -14,12 +14,17 @@ body{
     font-family: 'Hanken Grotesk', sans-serif;
     margin: 0;
     padding: 0;
+    display: flex;
+justify-content: center;
+align-items: center;
+min-height: 100vh;
+flex-direction: column;
 }
 
 
 
 .grid-container{
-    margin: 110px 230px 80px 340px;
+   
     width: 600px;
     height: 450px;
     border-radius: 25px;
