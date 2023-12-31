@@ -1,6 +1,6 @@
-# Frontend Mentor - Results summary component solution
+# Results summary component
 
-This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). 
 
 ## Table of contents
 
@@ -47,15 +47,6 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Media queries 
-
-
-
-### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
 
 
 
